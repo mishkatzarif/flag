@@ -1,0 +1,168 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: brown;
+}
+
+.green {
+  width: 500px;
+  height: 300px;
+  background-color: green;
+  margin: 50px auto;
+  overflow: hidden;
+}
+
+.red {
+  width: 250px;
+  height: 250px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 24px auto;
+}
+
+.germany {
+  width: 500px;
+  height: 100px;
+  background-color: red;
+  margin: 50px auto;
+  border-top: 100px solid #000;
+  border-bottom: 100px solid yellow;
+}
+
+.argen {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  border-top: 100px solid skyblue;
+  border-bottom: 100px solid skyblue;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.argen img {
+  width: 100px;
+}
+
+.canada {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  margin: 50px auto;
+  border-left: 150px solid red;
+  border-right: 150px solid red;
+  text-align: center;
+  overflow: hidden;
+}
+
+.canada img {
+  width: 200px;
+  margin-top: 50px;
+}
+
+.japan {
+  width: 500px;
+  height: 300px;
+  background-color: white;
+  margin: 50px auto;
+  overflow: hidden;
+}
+
+.russia {
+  width: 500px;
+  height: 100px;
+  background-color: blue;
+  margin: 50px auto;
+  border-top: 100px solid white;
+  border-bottom: 100px solid red;
+}
+
+.uae {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid green;
+  border-bottom: 100px solid black;
+  border-left: 100px solid red;
+}
+
+.italy {
+  width: 100px;
+  height: 200px;
+  background-color: white;
+  margin: 50px auto;
+  border-left: 100px solid green;
+  border-right: 100px solid red;
+}
+
+.france {
+  width: 100px;
+  height: 200px;
+  background-color: white;
+  margin: 50px auto;
+  border-left: 100px solid blue;
+  border-right: 100px solid red;
+}
+
+.indonesia {
+  width: 400px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid red;
+}
+
+.netherlands {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid blue;
+  border-bottom: 100px solid red;
+}
+
+.belgium {
+  width: 100px;
+  height: 200px;
+  background-color: yellow;
+  margin: 50px auto;
+  border-left: 100px solid black;
+  border-right: 100px solid red;
+}
+
+.austria {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid red;
+  border-bottom: 100px solid red;
+}
+
+.hungary {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 50px auto;
+  border-top: 100px solid red;
+  border-bottom: 100px solid green;
+}
+
+.romania {
+  width: 100px;
+  height: 200px;
+  background-color: yellow;
+  margin: 50px auto;
+  border-left: 100px solid blue;
+  border-right: 100px solid red;
+}
+
+h2 {
+  text-align: center;
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 36px;
+  color: aqua;
+}
